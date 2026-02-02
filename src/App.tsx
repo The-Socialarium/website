@@ -56,9 +56,7 @@ export default function App() {
             />
           </span>
           <h1>The Socialarium</h1>
-          <p className="tag">
-            A relaxed podcast about social media, culture, and friends.
-          </p>
+          <p className="tag">A safe place for hypothetical situations. </p>
         </div>
       </header>
       <main>

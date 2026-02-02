@@ -102,7 +102,9 @@ header {
   height: 120px;
   box-sizing: border-box;
 }
- .logo-frame.loading { background: #000 }
+.logo-frame.loading {
+  background: #000;
+}
 .site-logo {
   width: 120px;
   height: 120px;
@@ -111,12 +113,19 @@ header {
   border-radius: 0;
   opacity: 0;
   transform: scale(0.98);
-  transition: opacity 420ms ease, transform 420ms cubic-bezier(.2,.9,.2,1);
+  transition:
+    opacity 420ms ease,
+    transform 420ms cubic-bezier(0.2, 0.9, 0.2, 1);
 }
- .logo-frame.loaded .site-logo { opacity: 1; transform: none }
+.logo-frame.loaded .site-logo {
+  opacity: 1;
+  transform: none;
+}
 
 /* ensure the img itself has a black background while loading (covers SVG transparency) */
-.logo-frame.loading .site-logo { background: #000 }
+.logo-frame.loading .site-logo {
+  background: #000;
+}
 .links {
   display: flex;
   flex-direction: column;

@@ -11,7 +11,7 @@ import {
 } from 'react-icons/si';
 
 export default function App() {
-  const [logoLoaded, setLogoLoaded] = useState(false)
+  const [logoLoaded, setLogoLoaded] = useState(false);
 
   useEffect(() => {
     if (typeof window === 'undefined' || !window.matchMedia) return;
@@ -87,4 +87,3 @@ export default function App() {
     </div>
   );
 }
-

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 4016 4016">
+  <!-- Generator: Adobe Illustrator 29.2.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 116)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #10101f;
+        fill-opacity: .5;
+      }
+
+      .st0, .st1, .st2, .st3, .st4, .st5 {
+        fill-rule: evenodd;
+      }
+
+      .st0, .st2, .st3, .st4, .st6, .st7, .st8, .st5 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .st0, .st2, .st3, .st4, .st6, .st8, .st5 {
+        stroke: #fff;
+      }
+
+      .st0, .st2, .st3, .st4, .st5 {
+        stroke-width: 37.3px;
+      }
+
+      .st1 {
+        fill: #f4f4f4;
+        fill-opacity: .2;
+      }
+
+      .st2 {
+        fill: #eaeaec;
+        fill-opacity: .3;
+      }
+
+      .st3 {
+        fill: #767676;
+        fill-opacity: .4;
+      }
+
+      .st4 {
+        fill: #afafde;
+        fill-opacity: .1;
+      }
+
+      .st6 {
+        fill: #fff;
+        stroke-width: 46.8px;
+      }
+
+      .st9 {
+        fill: url(#radial-gradient);
+      }
+
+      .st10 {
+        isolation: isolate;
+      }
+
+      .st7 {
+        stroke: #000;
+        stroke-width: 12.1px;
+      }
+
+      .st11 {
+        display: none;
+      }
+
+      .st8 {
+        fill: none;
+        stroke-width: 32.2px;
+      }
+
+      .st5 {
+        fill: #4d4d4d;
+        fill-opacity: .4;
+      }
+
+      .st12 {
+        filter: url(#filter55);
+      }
+    </style>
+    <filter id="filter55" x="-0.19831402" y="-0.72310089" width="1.396628" height="2.4462018">
+      <feGaussianBlur result="fbSourceGraphic" stdDeviation="13.9904 8.51979"/>
+      <feGaussianBlur in="fbSourceGraphic" result="blur" stdDeviation="13.9904 8.51979"/>
+    </filter>
+    <radialGradient id="radial-gradient" cx="1809.8" cy="7431" fx="1809.8" fy="7431" r="176.2" gradientTransform="translate(-3129.5 7449.3) scale(2.8 -.6)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <g id="svg1" inkscape:version="1.3 (0e150ed, 2023-07-21)">
+    <sodipodi:namedview id="namedview1" bordercolor="#000000" borderopacity="0.25" inkscape:current-layer="layer4" inkscape:cx="4804.9938" inkscape:cy="7171.9357" inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm" inkscape:pagecheckerboard="0" inkscape:pageopacity="0.0" inkscape:showpageshadow="2" inkscape:window-height="1027" inkscape:window-maximized="0" inkscape:window-width="1392" inkscape:window-x="86" inkscape:window-y="105" inkscape:zoom="0.049219627" pagecolor="#ffffff" showguides="false">
+      <sodipodi:guide id="guide1" inkscape:locked="false" orientation="1,0" position="903.71124,1868.2228"/>
+      <sodipodi:guide id="guide2" inkscape:locked="false" orientation="1,0" position="1792.7511,2107.656"/>
+      <sodipodi:guide id="guide3" inkscape:locked="false" orientation="1,0" position="1201.4389,2094.2171"/>
+      <sodipodi:guide id="guide4" inkscape:locked="false" orientation="1,0" position="2091.095,2005.5203"/>
+      <sodipodi:guide id="guide5" inkscape:locked="false" orientation="0,-1" position="1505.1583,2099.5927"/>
+      <sodipodi:guide id="guide6" inkscape:locked="false" orientation="0,-1" position="1394.9592,1798.561"/>
+      <sodipodi:guide id="guide7" inkscape:locked="false" orientation="0,-1" position="1798.432,903.22397"/>
+      <sodipodi:guide id="guide8" inkscape:locked="false" orientation="0,-1" position="1674.4886,1207.2488"/>
+    </sodipodi:namedview>
+    <g id="_x3C_defs">
+      <inkscape:perspective id="perspective30" inkscape:persp3d-origin="1935.0985 : 1003.7256 : 1" inkscape:vp_x="-1581.1389 : -1.9363367e-13 : 0" inkscape:vp_y="-1.8369702e-13 : 999.99999 : 0" inkscape:vp_z="1118.0341 : 1118.0341 : 0" sodipodi:type="inkscape:persp3d"/>
+    </g>
+    <g id="layer1" inkscape:groupmode="layer" inkscape:label="Layer 1">
+      <rect id="rect1" class="st7" x="6" y="6" width="4003.9" height="4003.9"/>
+      <image id="image1" class="st10" width="500" height="500" transform="translate(-2256.2 -2256.2) scale(17)" xlink:href="logo2-1.png"/>
+    </g>
+    <g id="layer2" inkscape:groupmode="layer" inkscape:label="Box">
+      <path id="path12" class="st8" d="M317.7,3683.6V1161.7"/>
+      <path id="path13" class="st8" d="M1161.7,308.4h2521.9"/>
+      <path id="path14" class="st8" d="M317.7,1161.7l844-853.3"/>
+      <path id="path17" class="st8" d="M317.7,1161.7h2520.1"/>
+      <path id="path18" class="st8" d="M3683.6,308.4l-845.7,853.3"/>
+      <path id="path19" class="st8" d="M317.7,3683.6l2526.2,6,839.7-851.7"/>
+      <path id="path20" class="st8" d="M3683.6,308.4v2529.5"/>
+      <path id="path21" class="st8" d="M2837.9,1161.7v2521.9"/>
+      <path id="path22" class="st8" d="M1161.7,323.6v2514.2"/>
+      <path id="path23" class="st8" d="M317.7,3683.6l844-845.7"/>
+      <path id="path24" class="st8" d="M3683.6,2837.9H1161.7"/>
+    </g>
+    <g id="layer4" class="st11" inkscape:groupmode="layer" inkscape:label="Box 1">
+      <g id="g40" inkscape:corner0="0.65833107 : 0.79483541 : 0 : 1" inkscape:corner7="0.096052915 : -0.10050163 : 0.27955809 : 1" inkscape:perspectiveID="#perspective30" sodipodi:type="inkscape:box3d">
+        <path id="path45" class="st1" d="M1176.7,275.7h2520.1v2538H1176.7V275.7Z" inkscape:box3dsidetype="11" sodipodi:type="inkscape:box3dside"/>
+        <path id="path40" class="st5" d="M290.7,1161.7v2538l886-886V275.7l-886,886Z" inkscape:box3dsidetype="6" sodipodi:type="inkscape:box3dside"/>
+        <path id="path44" class="st4" d="M290.7,3699.7h2520.1l886-886H1176.7l-886,886Z" inkscape:box3dsidetype="13" sodipodi:type="inkscape:box3dside"/>
+        <path id="path41" class="st3" d="M290.7,1161.7h2520.1l886-886H1176.7l-886,886Z" inkscape:box3dsidetype="5" sodipodi:type="inkscape:box3dside"/>
+        <path id="path43" class="st2" d="M2810.9,1161.7v2538l886-886V275.7l-886,886Z" inkscape:box3dsidetype="14" sodipodi:type="inkscape:box3dside"/>
+        <path id="path42" class="st0" d="M290.7,1161.7h2520.1v2538H290.7V1161.7Z" inkscape:box3dsidetype="3" sodipodi:type="inkscape:box3dside"/>
+      </g>
+    </g>
+    <g id="layer5" inkscape:groupmode="layer" inkscape:label="Egg">
+      <g id="path52" class="st12" sodipodi:arc-type="chord" sodipodi:cx="1497.4031" sodipodi:cy="1936.7427" sodipodi:end="6.2648379" sodipodi:open="true" sodipodi:rx="169.31209" sodipodi:ry="28.277514" sodipodi:start="0" sodipodi:type="arc">
+        <path class="st9" d="M2480.6,3246c0,44.1-213.5,80-477.7,80.2s-479.7-35.3-482.1-79.4c-2.4-44.1,209.1-80.3,473.3-80.9s481.6,34.6,486.5,78.7v1.5Z"/>
+      </g>
+      <path id="path51" class="st6" d="M2566.8,2610.1c0,141.4-20.5,277.7-87.3,384.4-102.4,163.7-288.3,265.2-477.2,266.2-194.2,1-387.6-102-490.5-272.4-62.5-103.5-78-236.9-79.1-372.3-2.9-358.1,255.8-993.7,567.9-998.6,312.1-4.9,560.3,622.6,566.1,980.7v11.9Z" sodipodi:nodetypes="cssssscc"/>
+    </g>
+  </g>
+</svg>

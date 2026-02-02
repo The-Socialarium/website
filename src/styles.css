@@ -91,22 +91,32 @@ header {
   width: 18px;
   height: 18px;
 }
-
 .logo-frame {
   display: inline-block;
-  border-radius: 12px;
+  border-radius: 16px;
   overflow: hidden;
-  background: var(--card);
-  border: 6px solid #000;
+  background: #000; /* black placeholder */
+  border: 1px solid #000;
   margin-bottom: 12px;
+  width: 120px;
+  height: 120px;
+  box-sizing: border-box;
 }
+ .logo-frame.loading { background: #000 }
 .site-logo {
-  width: 96px;
-  height: 96px;
+  width: 120px;
+  height: 120px;
   display: block;
   object-fit: cover;
   border-radius: 0;
+  opacity: 0;
+  transform: scale(0.98);
+  transition: opacity 420ms ease, transform 420ms cubic-bezier(.2,.9,.2,1);
 }
+ .logo-frame.loaded .site-logo { opacity: 1; transform: none }
+
+/* ensure the img itself has a black background while loading (covers SVG transparency) */
+.logo-frame.loading .site-logo { background: #000 }
 .links {
   display: flex;
   flex-direction: column;

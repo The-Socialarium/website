@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+import React, { useEffect, useState } from 'react';
 import LinkButton from './components/LinkButton';
 import links from '../links.json';
 import logoUrl from './assets/logo2.svg';
@@ -11,6 +11,8 @@ import {
 } from 'react-icons/si';
 
 export default function App() {
+  const [logoLoaded, setLogoLoaded] = useState(false)
+
   useEffect(() => {
     if (typeof window === 'undefined' || !window.matchMedia) return;
     const mq = window.matchMedia('(prefers-color-scheme: light)');
@@ -42,11 +44,15 @@ export default function App() {
     <div className="container">
       <header>
         <div className="title">
-          <span className="logo-frame">
+          <span className={`logo-frame ${logoLoaded ? 'loaded' : 'loading'}`}>
             <img
               src={logoUrl}
               alt="The Socialarium logo"
               className="site-logo"
+              loading="lazy"
+              width={120}
+              height={120}
+              onLoad={() => setLogoLoaded(true)}
             />
           </span>
           <h1>The Socialarium</h1>
@@ -81,7 +87,4 @@ export default function App() {
     </div>
   );
 }
-<p className="tag">
-  A relaxed podcast about social media, culture, and friends. \n Welcome to
-  Hypothetical Heaven.
-</p>;
+

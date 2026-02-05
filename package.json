@@ -2,7 +2,7 @@
   "name": "the-socialarium-site",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://The-Socialarium.github.io/website",
+  "homepage": "https://thesocialarium.com",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
